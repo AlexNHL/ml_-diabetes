@@ -1,4 +1,4 @@
-# Predicting Diabetes with Machine Learning Models and SMOTE
+## Predicting Diabetes with Machine Learning Models and SMOTE
 
 * Determined the best indicators for predicting whether a patient has diabetes and generated insights into each of these risk factors
 * Addressed the accuracy paradox caused by an imbalanced dataset by adopting the Synthetic Minority Oversampling Technique (SMOTE)
